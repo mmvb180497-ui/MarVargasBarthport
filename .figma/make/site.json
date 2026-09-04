@@ -1,0 +1,10 @@
+{
+  "description": "Create a customizable portfolio template for UX professionals transitioning to Product Manager roles, featuring a sleek design inspired by Apple's Human Design.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
